@@ -1,0 +1,12 @@
+com\example\secondhand_electronics\controller\HomeController.class
+com\example\secondhand_electronics\repository\UserRepository.class
+com\example\secondhand_electronics\repository\ProductRepository.class
+com\example\secondhand_electronics\service\UserService.class
+com\example\secondhand_electronics\controller\ChangePasswordRequest.class
+com\example\secondhand_electronics\entity\Product.class
+com\example\secondhand_electronics\SecondhandElectronicsApplication.class
+com\example\secondhand_electronics\entity\User.class
+com\example\secondhand_electronics\service\ProductService.class
+com\example\secondhand_electronics\controller\UserController.class
+com\example\secondhand_electronics\controller\AuthController.class
+com\example\secondhand_electronics\controller\ProductController.class
